@@ -58,11 +58,4 @@ The system allows registered users to interact with their friends, follow fan pa
 11. Display friends/fans  
 12. Exit and save data  
 
----
 
-## ⚡ Setup
-
-1. Compile and run the project:
-```bash
-g++ -std=c++17 main.cpp -o social_network
-./social_network
