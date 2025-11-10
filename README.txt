@@ -30,7 +30,7 @@ The system allows registered users to interact with their friends, follow fan pa
 - Display friends of a specific member  
 - Display fans of a specific fan page  
 
-### 💡 Additional Functionalities (Exercises 2 & 3)
+### 💡 Additional Functionalities 
 - Support for operator overloading (`+=`, `<`, `==`, `!=`)  
 - Use of STL containers instead of raw arrays and strings  
 - Exception handling for invalid input  
