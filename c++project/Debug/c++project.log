@@ -1,0 +1,18 @@
+﻿  Clock.cpp
+  Date.cpp
+  facebook.cpp
+C:\Users\User\Desktop\Social Network\c++project\facebook.cpp(57,25): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\User\Desktop\Social Network\c++project\facebook.cpp(96,25): warning C4018: '>=': signed/unsigned mismatch
+  FacebookEntity.cpp
+  FanPage.cpp
+C:\Users\User\Desktop\Social Network\c++project\FanPage.cpp(83,39): warning C4018: '>=': signed/unsigned mismatch
+  imageStatus.cpp
+  Main.cpp
+  Member.cpp
+  Status.cpp
+  statusObject.cpp
+  textStatus.cpp
+  UserFunctions.cpp
+  videoStatus.cpp
+  Generating Code...
+  c++project.vcxproj -> C:\Users\User\Desktop\Social Network\Debug\c++project.exe
